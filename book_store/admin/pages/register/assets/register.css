@@ -1,0 +1,14 @@
+.container {
+    width: 50%;
+    /* margin-top:2%; */
+    box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+    padding: 40px;
+}
+
+button{
+    width: 100%;
+}
+
+.txt-back{
+    color: #ec0505;
+}
